@@ -6,11 +6,7 @@
 expectWidth = dpr * innerWidth /2
 
 2. Change panel
-
-co = console
-
-el = element
-
-so = source
-
-ne = network
+console
+element
+source
+network
