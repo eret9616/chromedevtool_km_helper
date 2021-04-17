@@ -3,7 +3,7 @@
 409 3(dpr)		1227
 921 1.3333333730697632  1228.000036597251907
 
-expectWdith = dpr * innerWidth /2
+expectWidth = dpr * innerWidth /2
 
 2. Change panel
 
