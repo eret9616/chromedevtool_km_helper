@@ -5,7 +5,7 @@
 
 expectWdith = dpr * innerWidth /2
 
-2. Change pant
+2. Change panel
 
 co = console
 
